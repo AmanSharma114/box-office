@@ -3,9 +3,10 @@ This is a React js project that uses an API to fetch and display data about TV s
 
 # Demo
 Live URL: [https://github.com/AmanSharma114/box-office](https://github.com/AmanSharma114/box-office) \
-Screenshot:\
-![App Screenshot](Screenshot.gif)
+Demo video:\
+![Uploading box-office demo.gif…]()
 
 
-# Getting Started with Create React App
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
