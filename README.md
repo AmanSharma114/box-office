@@ -4,7 +4,8 @@ This is a React js project that uses an API to fetch and display data about TV s
 # Demo
 Live URL: [https://github.com/AmanSharma114/box-office](https://github.com/AmanSharma114/box-office) \
 Full Video:\
-https://user-images.githubusercontent.com/86476774/179369706-5f6a7080-40e4-41c5-9c43-aad13c8e8de5.mp4 \
+https://user-images.githubusercontent.com/86476774/179370209-e0023e2d-dc05-4e12-a614-38b6d4376f33.mp4
+
 
 demo: \
 
