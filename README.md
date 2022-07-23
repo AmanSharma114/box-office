@@ -1,5 +1,10 @@
 # Box-office-app
-This is a React js project that uses an API to fetch and display data about TV shows and actors when searched by users.
+• This is a React js project that uses an API to fetch and display data about TV shows and actors when searched by users.
+
+• Implementation of animations, effects and core functionalities using REACT.JS.
+
+• Implemented Starred page where you keep track of yourfavorites shows .
+
 
 # Demo
 Live URL: [https://github.com/AmanSharma114/box-office](https://github.com/AmanSharma114/box-office) \
